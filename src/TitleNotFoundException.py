@@ -1,0 +1,2 @@
+class TitleNotFoundException(Exception):
+    pass

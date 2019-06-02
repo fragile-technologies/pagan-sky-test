@@ -1,0 +1,3 @@
+class TechnicalFailureExeption(Exception):
+    pass 
+    
